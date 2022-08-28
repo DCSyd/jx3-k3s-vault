@@ -1,7 +1,7 @@
 # Source: jxboot-helmfile-resources/templates/ingress-config-configmap.yaml
 apiVersion: v1
 data:
-  domain: "jenkinsx.australiaeast.cloudapp.azure.com"
+  domain: "20.248.200.182.nip.io"
   email: ""
   exposer: "Ingress"
   issuer: ""

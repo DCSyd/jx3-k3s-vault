@@ -19,7 +19,7 @@ metadata:
   namespace: jx
 spec:
   rules:
-    - host: dashboard.jx.jenkinsx.australiaeast.cloudapp.azure.com
+    - host: dashboard.jx.20.248.200.182.nip.io
       http:
         paths:
           - pathType: ImplementationSpecific

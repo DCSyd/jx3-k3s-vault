@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - DCSyd/jx3-k3s-vault
-      target_url: http://lighthouse.jx.jenkinsx.australiaeast.cloudapp.azure.com/merge/status
+      target_url: http://lighthouse.jx.20.248.200.182.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null

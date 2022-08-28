@@ -19,4 +19,4 @@ spec:
                 name: bucketrepo
                 port:
                   number: 80
-      host: bucketrepo.jx.jenkinsx.australiaeast.cloudapp.azure.com
+      host: bucketrepo.jx.20.248.200.182.nip.io

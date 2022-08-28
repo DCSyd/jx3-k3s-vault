@@ -20,4 +20,4 @@ spec:
                 port:
                   number: 80
             path: "/hook"
-      host: hook.jx.jenkinsx.australiaeast.cloudapp.azure.com
+      host: hook.jx.20.248.200.182.nip.io
