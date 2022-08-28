@@ -22,7 +22,7 @@ spec:
     repository: jx3-k3s-vault
   - key: staging
   ingress:
-    domain: jenkinsx.australiaeast.cloudapp.azure.com
+    domain: 20.248.200.182.nip.io
     ignoreLoadBalancer: true
     kind: ingress
     namespaceSubDomain: .jx.
